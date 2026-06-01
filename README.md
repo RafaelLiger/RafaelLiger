@@ -1,16 +1,47 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1F2937,100:2563EB&text=Rafael%20Liger&fontSize=45&fontColor=FFFFFF&animation=fadeIn"/>
 
-<!--
-**RafaelLiger/RafaelLiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Rafael Liger 👋
 
-Here are some ideas to get you started:
+📊 Estudante de Análise de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Desenvolvedor Front-End
+
+🎓 Graduando pela UNIASSELVI
+
+📈 Interessado em Business Intelligence, Data Analytics e Visualização de Dados
+
+---
+
+## Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode"/>
+</p>
+
+---
+
+## Ferramentas de Dados
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Visualização de Dados
+
+---
+
+## Estatísticas GitHub
+
+![](https://github-readme-stats.vercel.app/api?username=RafaelLiger&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLiger&layout=compact)
+
+---
+
+## Contato
+
+💼 LinkedIn: www.linkedin.com/in/rafael-liger95
+
+🌐 Portfólio: https://rafaelliger.github.io/Portfolio/
+
+📧 Email: rafael-liger@outlook.com
