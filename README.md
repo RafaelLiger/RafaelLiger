@@ -45,3 +45,7 @@
 🌐 Portfólio: https://rafaelliger.github.io/Portfolio/
 
 📧 Email: rafael-liger@outlook.com
+
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/RafaelLiger/RafaelLiger/blob/output/github-contribution-grid-snake.svg)
