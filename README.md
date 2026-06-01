@@ -30,14 +30,6 @@
 
 ---
 
-## Estatísticas GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=RafaelLiger&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLiger&layout=compact)
-
----
-
 ## Contato
 
 💼 LinkedIn: www.linkedin.com/in/rafael-liger95
