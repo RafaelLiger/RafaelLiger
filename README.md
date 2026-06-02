@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1F2937,100:2563EB&text=Rafael%20Liger&fontSize=45&fontColor=FFFFFF&animation=fadeIn"/>
 
-# Olá, eu sou Rafael Liger 👋
+# Olá, seja bem-vindo ao meu perfil! 👋
 
 📊 Estudante de Análise de Dados
 
