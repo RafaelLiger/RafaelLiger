@@ -19,6 +19,25 @@
 </p>
 
 ---
+## 🚀 Projetos em Destaque
+
+<p align="center">
+  <a href="https://github.com/RafaelLiger/Dashboard-Turismo">
+    <img
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RafaelLiger&repo=Dashboard-Turismo&theme=github_dark"
+      alt="Dashboard Turismo"
+    />
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/RafaelLiger/analise-exploratoria-vendas">
+    <img
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RafaelLiger&repo=analise-exploratoria-vendas&theme=github_dark"
+      alt="Análise Exploratória de Vendas"
+    />
+  </a>
+</p>
+
+---
 
 ## Ferramentas de Dados
 
