@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1F2937,100:2563EB&text=Rafael%20Liger&fontSize=45&fontColor=FFFFFF&animation=fadeIn"/>
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521969400559?text=Ol%C3%A1+Rafael,+tudo+bem?) &nbsp; [![E-mail](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafael-liger@outlook.com) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-liger95/)
+
 # Olá, seja bem-vindo ao meu perfil! 👋
 
 📊 Estudante de Análise de Dados
