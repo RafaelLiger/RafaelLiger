@@ -23,21 +23,37 @@
 ---
 ## 🚀 Projetos em Destaque
 
+<!-- Projeto 1: Eco Raiz 360 -->
 <p align="center">
-  <a href="https://github.com/RafaelLiger/Dashboard-Turismo">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelLiger&repo=Dashboard-Turismo&theme=github_dark"
-      alt="Dashboard Turismo"
-    />
-  </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/RafaelLiger/analise-exploratoria-vendas">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelLiger&repo=analise-exploratoria-vendas&theme=github_dark"
-      alt="Análise Exploratória de Vendas"
-    />
+  <a href="https://github.com/Raiz-Inteligente/Eco_Raiz_360">
+    <b>Eco Raiz 360</b><br><br>
+    <img src="https://github.com/Raiz-Inteligente/Eco_Raiz_360/blob/main/imagens/Visao_360.png?raw=true" alt="Eco Raiz 360" width="60%"><br><br>
+    <img src="https://img.shields.io/badge/ Ver_Projeto_no_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<br><hr><br>
+
+<!-- Projeto 2: Dashboard Turismo -->
+<p align="center">
+  <a href="https://github.com/RafaelLiger/Dashboard-Turismo">
+    <b>Dashboard Turismo</b><br><br>
+    <img src="https://github.com/RafaelLiger/Dashboard-Turismo/blob/main/imagens/GERAL.png?raw=true" alt="Dashboard Turismo" width="60%"><br><br>
+    <img src="https://img.shields.io/badge/ Ver_Projeto_no_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br><hr><br>
+
+<!-- Projeto 3: Análise Exploratória de Vendas -->
+<p align="center">
+  <a href="https://github.com/RafaelLiger/analise-exploratoria-vendas">
+    <b>Análise Exploratória de Vendas</b><br><br>
+    <img src="https://github.com/RafaelLiger/analise-exploratoria-vendas/blob/main/imagens/vendas.png?raw=true" alt="Análise Exploratória de Vendas" width="60%"><br><br>
+    <img src="https://img.shields.io/badge/ Ver_Projeto_no_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
